@@ -1,4 +1,4 @@
-# hostname
+# hostnames
 In the hostname repository, we create a dataset using an algorithm where we generate 1500 hostnames with
 the parameters we have previously established, thanks to the random library. 
 
